@@ -3,6 +3,8 @@
 
 <p>On December 2, 2021 <b>LabSynthE</b> organized a <em>Robot Strike!</em> with fourteen Tobors (that's r-o-b-o-t backwards), UTD's personified delivery vehicles. We sprayed the ground with chalked slogans; then about 22 lab members and students from ATCM 4330 Culture Jamming (Fall 2021) ordered from Starship in staggered times. We figured out a way to keep the well organized fleet in strike position.* And, just for fun, we had all of them play “All I Want for Christmas is You” (Mariah Carey version), so there was a bit of noise, and subsequent laughing and dancing. Watch the video to learn why we staged a strike. It was the most perfect ending to my culture jamming class ever and a highly successful first launch of the Robot Strike! project, developed in LabSynthE with Murilo Paiva-Homsi and David Adelman.</p>
 
+<p>We documented our initial strike <a href = "https://vimeo.com/xtineburrough/robotstrike" alt="Robot Strike! on Vimeo">in this video.</a></p>
+
 <p>Use this repository for stencil templates (modify and/or contribute new ones here) and notes about strikes you create on your campus.</p>
 
 <p>*To keep the Starship fleet in strike position:</p>
@@ -24,5 +26,9 @@
   
   <p>We used sidewalk spray chalk for kids that we picked up at Target.</p>
  
+ <h1>Clone & Share!</h1>
+ 
  <p>You are welcome to re-use these stencil files or make your own. If you do the latter, please upload them here! We want to make lots of strikes on campuses everywhere to raise awareness about the dangers of these inaccessibly-designed street creatures.</p>
+ 
+ <p>If you conduct a strike, please document it and share your photos or videos with us! You can post them here and share them on another platform. We are <a href="https://www.instagram.com/lab.synthe/" alt="labsynthe on insta"> @lab.synthe</a> on Instagram.</p>
  
