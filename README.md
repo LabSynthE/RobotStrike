@@ -15,3 +15,14 @@
          <li>Continue this pattern of closing the app and reopening the robot for as long as you want the robot to sit in its strike position</li>
   </ol>
   
+ <h1>Stencils</h1>
+ <p>The file <b>stencils.zip</b> includes the Illustrator native (.ai) files and the exported .DXF files that xtine used to cut the strike slogan phrases from cheap poster board from the Dollar Store.</p>
+ 
+ <p>x used the typeface Roboto, of course! It's a <a href="https://fonts.google.com/specimen/Roboto" alt="roboto">google font.</a></p>
+ 
+ <p>We would have used our laser cutter but it was broken at the time, so instead x used an old <a href="https://www.silhouettecameo.com/" alt="Silhouette main page">Silhouette Cameo</a> (the Cricket from around 2017). It worked well, the letters were easily removed from the posterboard. If you are using one of these, import the DXF files to the Silhouette Studio app then send it off to cut. Our settings were blade: 2, depth: 8, speed 5. Your settings may differ depending on your machine and the paper you use.</p>
+  
+  <p>We used sidewalk spray chalk for kids that we picked up at Target.</p>
+ 
+ <p>You are welcome to re-use these stencil files or make your own. If you do the latter, please upload them here! We want to make lots of strikes on campuses everywhere to raise awareness about the dangers of these inaccessibly-designed street creatures.</p>
+ 
